@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, Je suis Dominique</h1>
-<h3 align="center">Un véritable passionné par le Frontend from Paris</h3>
+<h3 align="center">Un véritable passionné par les technologies fullstack JavaScript from Paris</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlyf&label=Profile%20views&color=0e75b6&style=flat" alt="dlyf" /> </p>
 
