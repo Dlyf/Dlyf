@@ -41,10 +41,10 @@
 
 
 
-<h3 align="left">Support:</h3>
+<!-- <h3 align="left">Support:</h3>
 <p>un petit café pour coder plus</p>
 <p><i>one small coffee for more code</i></p>
-<p><a href="https://www.buymeacoffee.com/domilungf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="domilungf" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/domilungf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="domilungf" /></a></p><br><br> -->
 <!--
 **Dlyf/Dlyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
