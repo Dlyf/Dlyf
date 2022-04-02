@@ -12,6 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/domi-lungyutfong-d%c3%a9veloppeur-front-end-javascript-paris-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/domi-lungyutfong-d%c3%a9veloppeur-front-end-javascript-paris-/" height="30" width="40" /></a>
+<br />
+<br />
+<a href = "mailto:domilung@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
 </p>
 
 ## 👨🏻‍💻 Tech Stack
