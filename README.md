@@ -38,9 +38,6 @@
 ### Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-![Snake animation](https://github.com/Dlyf/Dlyf/blob/output/github-contribution-grid-snake.svg)
-
-
 <!-- <h3 align="left">Support:</h3>
 <p>un petit café pour coder plus</p>
 <p><i>one small coffee for more code</i></p>
